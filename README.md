@@ -1,3 +1,5 @@
+# Manuel Calzado Vidal's Test for Octopus
+
 # Basic structure taken from https://github.com/rephus/django-rest-template and readapted to save time for the real test
 
 ## Testing
