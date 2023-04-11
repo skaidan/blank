@@ -1,16 +1,4 @@
-# Task management REST API template
-
-
-
-### Project structure
-This is the structure of the modules in the project, it follows the standard Django REST file naming, based on the model-view-controller pattern.
-
-## Things to do next 
-
-This is a list of this that should be done before moving to a full environment. 
-
-- Hide passwords
-- Build readfile methods
+# Basic structure taken from https://github.com/rephus/django-rest-template and readapted to save time for the real test
 
 ## Testing
 
@@ -18,6 +6,13 @@ This is a list of this that should be done before moving to a full environment.
 
 ## Run the server 
 
-
     docker-compose up -d
 
+
+
+## Things to do next 
+
+This is a list of this that should be done before moving to a full environment. 
+
+- Hide passwords
+- Build readfile methods
