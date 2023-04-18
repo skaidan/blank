@@ -18,7 +18,8 @@ RUN pip install \
     psycopg2-binary \
     django-filter \ 
     faker \ 
-    factory-boy
+    factory-boy \
+    django-enumchoicefield
 
 CMD  python3 init.py && python manage.py runserver 0.0.0.0:8000
 #CMD python entrypoint.py
